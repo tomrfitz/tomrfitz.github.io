@@ -1,3 +1,3 @@
-# tomrfitz.github.io
+# A website for my stuff
 
-About tomrfitz
+maybe one day, anyway
