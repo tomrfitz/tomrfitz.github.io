@@ -11,7 +11,8 @@
       "wss://nostr-pub.semisol.dev",
       "wss://nostr.zebedee.cloud",
       "wss://relay.damus.io",
-      "wss://snort.social"
+      "wss://snort.social",
+      "wss://nostr.oxtr.dev"
     ]
   }
 }
