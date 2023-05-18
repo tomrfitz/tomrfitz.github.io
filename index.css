@@ -112,7 +112,7 @@ a:hover {
 
 @media only screen and (max-width:365px) {
     iframe {
-        /* display: none; */
+        display: none;
     }
 
 }
