@@ -104,9 +104,20 @@ a:hover {
         width: 95vw;
     }
 
+
+
     p {
         text-align: center;
         align-self: left;
+    }
+
+}
+
+@media only screen and (max-width:500px) {
+
+    html,
+    body {
+        font-size: medium;
     }
 
 }
